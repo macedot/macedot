@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=macedot&label=Profile%20views&color=0e75b6&style=flat" alt="macedot" /></p>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula" alt="macedot" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula&column=4" alt="macedot" /></a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center"><a href="https://twitter.com/thpmacedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="thpmacedo" height="30" width="40" /></a> <a href="https://linkedin.com/in/thiagomacedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thiagomacedo" height="30" width="40" /></a> <a href="https://instagram.com/thpmacedo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="thpmacedo" height="30" width="40" /></a></p>
